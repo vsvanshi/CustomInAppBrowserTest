@@ -19,15 +19,15 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-themeablebrowser"
-      version="0.2.12">
+           id="cordova-plugin-custominappbrowser"
+      version="0.1.1">
 
-    <name>ThemeableBrowser</name>
-    <description>Cordova ThemeableBrowser Plugin</description>
+    <name>CustomInAppBrowser</name>
+    <description>Cordova CustomInAppBrowserBrowser Plugin</description>
     <license>Apache 2.0</license>
-    <keywords>cordova,in,app,browser,themeablebrowser</keywords>
-    <repo>https://github.com/initialxy/cordova-plugin-themeablebrowser.git</repo>
-    <issue>https://github.com/initialxy/cordova-plugin-themeablebrowser/issues</issue>
+    <keywords>cordova,in,app,browser</keywords>
+    <repo>https://github.com/vsvanshi/CustomInAppBrowserTest.git</repo>
+    <issue>https://github.com/vsvanshi/CustomInAppBrowserTest.git</issue>
 
     <engines>
       <engine name="cordova" version=">=3.1.0" />
